@@ -44,13 +44,32 @@
 - Fan-created content is available for some popular tracks
 - The official TYM channel exists but requires consent for full access in some regions
 
+### EUPHORYA (feat. MYT, S1RENA) - 2025
+- **YouTube URL**: https://www.youtube.com/watch?v=MRqYXKRLSXc
+- **Spotify URL**: https://open.spotify.com/track/5ZyzXl9od6agErk1qmIDlJ
+- **Release Date**: 2025
+- **Label**: Y
+- **Production**: PROD BY TYM, MIX BY TYM, SHOT BY TYM AND S1RENA, EDIT BY S1RENA
+- **Note**: "EUPHORYA" is not just a song, it's a feeling...
+
+### Gut & schlecht - 2023 (Sandstorm Album)
+- **YouTube URL**: https://www.youtube.com/watch?v=mD5RJR5gK-U
+- **Album**: Sandstorm (2023)
+- **Tour**: Space Cowboy Sandstorm Tour 2023
+- **Instagram**: https://www.instagram.com/tymtravel__/
+
+### /iˈlek.trɪ.faɪ/ - 2023 (Sandstorm Album)
+- **YouTube URL**: https://www.youtube.com/watch?v=D785RLJeTFM
+- **Album**: Sandstorm (2023)
+- **Tour**: Space Cowboy Sandstorm Tour 2023
+- **Instagram**: https://www.instagram.com/tymtravel__/
+
 ## Missing Videos (To Be Updated)
 The following tracks don't have confirmed YouTube URLs yet:
 - THYS TYM YT REALLY HURT (feat. MYT)
 - SHOW (feat. MYT)
-- EUPHORYA (feat. MYT, S1RENA)
 - L1ebe 1n der Luft (with S1RENA)
-- Most tracks from the Sandstorm album
+- Most tracks from the Sandstorm album (20 additional tracks)
 
 ## Update Status
 - ✅ 999 (Remix) - Official

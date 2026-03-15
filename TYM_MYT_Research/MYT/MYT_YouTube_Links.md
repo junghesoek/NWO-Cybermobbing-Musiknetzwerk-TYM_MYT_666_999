@@ -34,7 +34,9 @@ The following MYT tracks don't have confirmed YouTube URLs yet:
 
 - **EUPHORYA** (feat. TYM, S1RENA) - 2025
   - Spotify URL: https://open.spotify.com/track/5ZyzXl9od6agErk1qmIDlJ
-  - YouTube URL: ⏳ Pending discovery
+  - YouTube URL: ✅ https://www.youtube.com/watch?v=MRqYXKRLSXc
+  - Production: PROD BY TYM, MIX BY TYM, SHOT BY TYM AND S1RENA, EDIT BY S1RENA
+  - Note: "EUPHORYA" is not just a song, it's a feeling...
 
 ## Notes on YouTube Availability
 - MYT's releases are primarily distributed through TYM's channels
@@ -49,9 +51,9 @@ The following MYT tracks don't have confirmed YouTube URLs yet:
 ## Update Status
 - ✅ 999 (Remix) - Official auto-generated video
 - ✅ 999 (Remix) - Bass boosted version
+- ✅ EUPHORYA - Official video discovered
 - ⏳ THYS TYM YT REALLY HURT - Pending
 - ⏳ SHOW - Pending
-- ⏳ EUPHORYA - Pending
 
 ## Recommendations for Finding Missing Content
 1. Check TYM's official channel regularly for new uploads
