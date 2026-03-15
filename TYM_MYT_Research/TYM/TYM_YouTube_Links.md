@@ -64,6 +64,39 @@
 - **Tour**: Space Cowboy Sandstorm Tour 2023
 - **Instagram**: https://www.instagram.com/tymtravel__/
 
+### Apple Music Videos - Official Visual Content
+
+#### Benzin (feat. TYM) [Visualizer] - 2024
+- **Apple Music URL**: https://music.apple.com/ng/music-video/benzin-feat-tym-visualizer/1740958155
+- **Type**: Visualizer Video
+- **Year**: 2024
+- **Role**: Featured Artist
+
+#### LOS - 2022
+- **Apple Music URL**: https://music.apple.com/ng/music-video/los/1630739706
+- **Type**: Music Video
+- **Year**: 2022
+
+#### mit dem wind - 2022
+- **Apple Music URL**: https://music.apple.com/ng/music-video/mit-dem-wind/1621631759
+- **Type**: Music Video
+- **Year**: 2022
+
+#### leb in den tag - 2022
+- **Apple Music URL**: https://music.apple.com/ng/music-video/leb-in-den-tag/1614957463
+- **Type**: Music Video
+- **Year**: 2022
+
+#### zu 2 - 2022
+- **Apple Music URL**: https://music.apple.com/ng/music-video/zu-2/1610644366
+- **Type**: Music Video
+- **Year**: 2022
+
+#### alles cool wie es ist - 2021
+- **Apple Music URL**: https://music.apple.com/ng/music-video/alles-cool-wie-es-ist/1609330694
+- **Type**: Music Video
+- **Year**: 2021
+
 ## Missing Videos (To Be Updated)
 The following tracks don't have confirmed YouTube URLs yet:
 - THYS TYM YT REALLY HURT (feat. MYT)
@@ -72,6 +105,15 @@ The following tracks don't have confirmed YouTube URLs yet:
 - Most tracks from the Sandstorm album (20 additional tracks)
 
 ## Update Status
-- ✅ 999 (Remix) - Official
-- ✅ ZUCKER - Official
+- ✅ 999 (Remix) - Official YouTube
+- ✅ ZUCKER - Official YouTube
+- ✅ EUPHORYA - Official YouTube
+- ✅ Gut & schlecht - Official YouTube
+- ✅ /iˈlek.trɪ.faɪ/ - Official YouTube
+- ✅ Benzin (feat. TYM) - Apple Music Visualizer
+- ✅ LOS - Apple Music Video
+- ✅ mit dem wind - Apple Music Video
+- ✅ leb in den tag - Apple Music Video
+- ✅ zu 2 - Apple Music Video
+- ✅ alles cool wie es ist - Apple Music Video
 - ⏳ Other tracks - Pending discovery
